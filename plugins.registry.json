@@ -20,6 +20,13 @@
       "build": "ant",
       "jar": "dist/pitiupi.ping.jar",
       "menuCategory": "Social"
+    },
+    {
+      "id": "purrinha",
+      "dir": "plugins/purrinha",
+      "build": "ant",
+      "jar": "dist/pitiupi.purrinha.jar",
+      "menuCategory": "Jogos"
     }
   ]
 }
